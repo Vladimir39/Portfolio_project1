@@ -1,0 +1,46 @@
+button {
+  /* Сброс стилей по умолчанию */
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: none;
+  font: inherit;
+  cursor: pointer;
+  /* Дополнительные стили по вашему усмотрению */
+}
+
+.button {
+  /* justify-content: space-between; */
+  background-color: #734495;
+  padding: 15px 25px 15px 25px;
+  border-radius: 30px;
+  color: #fff;
+  width: 150px;
+}
+
+.buttonBlock {
+  display: flex;
+  justify-content: center;
+}
+
+.button img {
+  width: 15px;
+  height: 15px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-right: 5px;
+}
+.title p {
+  margin: 0;
+}
+
+.img {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-left: 5px;
+}

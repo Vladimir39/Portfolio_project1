@@ -1,0 +1,35 @@
+.container {
+  border: 1px solid white;
+  background-color: #fff;
+  border-radius: 20px;
+  width: 480px;
+  height: 235px;
+}
+
+.balance {
+  margin: 30px 30px 15px 30px;
+}
+
+.h3 {
+  color: #7f7f7f;
+  margin-bottom: 10px;
+}
+
+.p {
+  margin: 0;
+  display: inline;
+  font-size: 70px;
+}
+.span {
+  display: inline;
+  font-size: 14px;
+  margin-left: 15px;
+  color: #7f7f7f;
+}
+
+.button {
+  display: flex;
+  justify-content: space-between;
+  width: 420px;
+  margin: 0 auto;
+}

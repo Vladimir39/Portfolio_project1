@@ -1,0 +1,20 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.home {
+  width: 1300px;
+  margin: 0 auto;
+}
+
+.infoBlock {
+  display: flex;
+}
+
+.referralBalance {
+  display: flex;
+  margin-left: 50px;
+}
+.referral {
+  margin-left: 20px;
+}

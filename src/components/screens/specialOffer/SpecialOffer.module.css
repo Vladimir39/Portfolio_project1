@@ -1,0 +1,57 @@
+.container {
+  position: relative;
+  width: 390px;
+  background-color: #fff;
+  border-radius: 20px;
+  padding-top: 20px;
+  overflow: hidden;
+}
+.fonImg {
+  position: absolute;
+  top: -170px;
+  width: 390px;
+  opacity: 0.2;
+}
+
+.specialBlock {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 40px 40px 20px 40px;
+}
+
+.img img {
+  width: 40px;
+  height: 40px;
+}
+
+.description {
+  width: 250px;
+}
+.description p {
+  margin: 0;
+}
+
+.link {
+  display: flex;
+  margin: 0 auto;
+  padding: 0px 0px 40px 100px;
+}
+.link p {
+  margin: 0;
+  margin-right: 15px;
+  color: #734493;
+  padding-bottom: 5px;
+}
+
+.imgArrow {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  height: 20px;
+  border-bottom: 1px solid #734493;
+}
+
+.imgArrow img {
+  width: 20px;
+}

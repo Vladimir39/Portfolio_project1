@@ -1,0 +1,73 @@
+.fonUserCard {
+  background: linear-gradient(
+    180deg,
+    #fff 96.15%,
+    rgba(245, 245, 245, 0.87) 100%
+  );
+  border-radius: 20px 20px 0px 0px;
+}
+
+.showCard {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 30px 10px 30px;
+}
+.card {
+  position: relative;
+  height: 160px;
+}
+
+.fonCard {
+  width: 290px;
+  height: 50px;
+  border-radius: 20px 20px 0px 0px;
+  background: linear-gradient(90deg, #694080 0%, #653f85 100%);
+  transform: rotate(-2deg);
+  margin: 0 auto;
+}
+
+.showAll {
+  color: #734495;
+}
+
+.userCard {
+  position: absolute;
+  top: 20px;
+  left: 30px;
+  width: 330px;
+  height: 140px;
+  background: #000;
+  border-radius: 20px 20px 0px 0px;
+  margin: 0 auto;
+  color: #fff;
+}
+
+.nameCard {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+}
+
+.nameCard img {
+  width: 25px;
+  height: 16px;
+}
+
+.infoCard {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 30px 30px 30px;
+  align-items: center;
+}
+
+.cvvBlock {
+  display: flex;
+  justify-content: center; /* Горизонтальное выравнивание по центру */
+  align-items: center;
+  font-size: 14px;
+  height: 27px;
+  width: 52px;
+  background: #323232;
+  border-radius: 20px;
+}

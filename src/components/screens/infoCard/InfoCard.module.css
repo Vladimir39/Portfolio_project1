@@ -1,0 +1,63 @@
+.infoCard {
+  width: 390px;
+  margin-bottom: 30px;
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+.container {
+  width: 330px;
+  margin: 0 auto;
+}
+
+.block {
+  padding-top: 20px;
+}
+
+.arrowBlock {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.arrowBlock img {
+  height: 12px;
+  width: 7px;
+}
+
+.paramBlock {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+.iconParam {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f3f3f3;
+  border-radius: 50px;
+  width: 42px;
+  height: 42px;
+}
+
+.iconParam img {
+  width: 20px;
+  height: 20px;
+}
+
+.nameParamBlock {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+}
+
+.titleParamBlock {
+  padding-left: 20px;
+}
+
+.button {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}

@@ -1,0 +1,16 @@
+.navigator {
+  width: 860px;
+  height: 65px;
+  background-color: #fff;
+  border-radius: 30px;
+}
+
+.infoBlock {
+  display: flex;
+  margin: 25px 25px 25px 0px;
+}
+
+.info {
+  margin-left: 65px;
+  font-size: 14px;
+}
